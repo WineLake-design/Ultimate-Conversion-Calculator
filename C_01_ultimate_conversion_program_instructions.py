@@ -27,6 +27,5 @@ if want_instructions == "":
     instructions()
 
 # Repeat question
-want_instructions = input("Press <enter> to read the instructions "
-                          "or any key to continue ")
+want_instructions = input("Press any key to continue ")
 
